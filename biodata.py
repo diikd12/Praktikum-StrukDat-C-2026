@@ -1,2 +1,2 @@
-print ("Hadi fauzan")
+print ("Hadi Fauzan")
 print ("25071207083")
