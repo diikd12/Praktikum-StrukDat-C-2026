@@ -1,5 +1,5 @@
-from kurs import mata_uang_kurs
-from konverter import konversi
+from Prakktikum_4.TugasPraktikum.kurs import mata_uang_kurs
+from Prakktikum_4.TugasPraktikum.konverter import konversi
 from tabulate import tabulate
 
 def tampilkan_kurs():
